@@ -1,0 +1,6 @@
+module Pods_appwithcustomnavigator {
+  umbrella header "Pods-appwithcustomnavigator-umbrella.h"
+
+  export *
+  module * { export * }
+}
