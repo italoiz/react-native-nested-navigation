@@ -1,5 +1,0 @@
-#import <Foundation/Foundation.h>
-@interface PodsDummy_Pods_appwithcustomnavigator_appwithcustomnavigatorTests : NSObject
-@end
-@implementation PodsDummy_Pods_appwithcustomnavigator_appwithcustomnavigatorTests
-@end

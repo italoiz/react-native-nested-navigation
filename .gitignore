@@ -1,6 +1,6 @@
 
-# Created by https://www.toptal.com/developers/gitignore/api/reactnative,macos,linux,android,androidstudio,node,yarn
-# Edit at https://www.toptal.com/developers/gitignore?templates=reactnative,macos,linux,android,androidstudio,node,yarn
+# Created by https://www.toptal.com/developers/gitignore/api/macos,android,androidstudio,linux,node,yarn,reactnative,cocoapods
+# Edit at https://www.toptal.com/developers/gitignore?templates=macos,android,androidstudio,linux,node,yarn,reactnative,cocoapods
 
 ### Android ###
 # Built application files
@@ -95,6 +95,14 @@ output.json
 
 # Replacement of .externalNativeBuild directories introduced
 # with Android Studio 3.5.
+
+### CocoaPods ###
+## CocoaPods GitIgnore Template
+
+# CocoaPods - Only use to conserve bandwidth / Save time on Pushing
+#           - Also handy if you have a large number of dependant pods
+#           - AS PER https://guides.cocoapods.org/using/using-cocoapods.html NEVER IGNORE THE LOCK FILE
+Pods/
 
 ### Linux ###
 *~
@@ -560,4 +568,4 @@ fabric.properties
 
 !/gradle/wrapper/gradle-wrapper.jar
 
-# End of https://www.toptal.com/developers/gitignore/api/reactnative,macos,linux,android,androidstudio,node,yarn
+# End of https://www.toptal.com/developers/gitignore/api/macos,android,androidstudio,linux,node,yarn,reactnative,cocoapods
